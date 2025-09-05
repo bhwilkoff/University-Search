@@ -6,7 +6,7 @@ This is an advanced, client-side web application for searching and exploring uni
 
 A live version of this application can be hosted for free on GitHub Pages. Once deployed, it will be available at:
 
-`https://[Your-GitHub-Username].github.io/[Your-Repo-Name]/`
+`https://bhwilkoff.github.io/University-Search/`
 
 ## Features
 
@@ -46,7 +46,3 @@ You can host this web application for free on your own GitHub account in just a 
 - **Libraries**:
     - **Leaflet.js**: Used for the interactive map feature.
     - **Font Awesome**: Used for icons in the user interface.
-
-### A Note on the API Key
-
-For simplicity and ease of deployment on a static host like GitHub Pages, the College Scorecard API key is included directly in the `index.html` file. This is generally not recommended for production applications where the key should be kept secret. However, for a public data API like this one and a client-side-only project, it is a practical approach.
